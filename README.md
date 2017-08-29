@@ -9,7 +9,8 @@ I'm using this repo to keep track of supplemental content for my video lessons. 
 # Questions? Need Support?
 * Join: <a href="http://patreon.com/codingtrain">Patreon</a>
 
-# <a href="http://learningprocessing.com/videos/">Learning Processing video site</a>
+# Learning Processing video site
+* <a href="http://learningprocessing.com/videos/">t</a>
 
 # Youtube
 * <a href="https://www.youtube.com/user/shiffman/playlists?view=50&shelf_id=2&sort=dd">Learning Processing</a>
