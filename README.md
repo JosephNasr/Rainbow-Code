@@ -7,10 +7,10 @@ I'm using this repo to keep track of supplemental content for my video lessons. 
 * better video descriptions for vimeo or youtube pages
 
 # Questions? Need Support?
-* Join: <a href="http://patreon.com/codingtrain">Patreon</a>
+* <a href="http://patreon.com/codingtrain">Join Patreon</a>
 
 # Learning Processing video site
-* <a href="http://learningprocessing.com/videos/">t</a>
+* <a href="http://learningprocessing.com/videos/">link</a>
 
 # Youtube
 * <a href="https://www.youtube.com/user/shiffman/playlists?view=50&shelf_id=2&sort=dd">Learning Processing</a>
